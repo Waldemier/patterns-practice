@@ -1,0 +1,3 @@
+﻿- Factory method
+- Abstract factory
+- Method chaining with fluent interface
