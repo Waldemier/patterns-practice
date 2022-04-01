@@ -49,7 +49,7 @@ namespace PatternsPartOne
 
             battlefield.BegginFight();
 
-            // Task 3
+            //// Task 3
             var stringer = new Stringer(" This is 23:08pm and we dont know WHAT TO WRITE. ");
             var result = stringer.Upper().Trim().Reverse().Lower().RemoveSymbol(".").Result();
             Console.WriteLine(result);
