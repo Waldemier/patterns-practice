@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32314.265
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "PatternsPartEight\Composite.csproj", "{8948C7A2-4262-4DD3-BE51-1D7EBB6AFC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{97773304-768E-4DDB-A080-3BA53C3EE82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{3A6366CD-8B7F-4299-8BC0-ADCC28EFFA2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8948C7A2-4262-4DD3-BE51-1D7EBB6AFC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8948C7A2-4262-4DD3-BE51-1D7EBB6AFC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8948C7A2-4262-4DD3-BE51-1D7EBB6AFC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8948C7A2-4262-4DD3-BE51-1D7EBB6AFC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97773304-768E-4DDB-A080-3BA53C3EE82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97773304-768E-4DDB-A080-3BA53C3EE82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97773304-768E-4DDB-A080-3BA53C3EE82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97773304-768E-4DDB-A080-3BA53C3EE82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6366CD-8B7F-4299-8BC0-ADCC28EFFA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6366CD-8B7F-4299-8BC0-ADCC28EFFA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6366CD-8B7F-4299-8BC0-ADCC28EFFA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6366CD-8B7F-4299-8BC0-ADCC28EFFA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BD016B-CCB8-4734-A7A0-AE0BA372C9E0}
+	EndGlobalSection
+EndGlobal
