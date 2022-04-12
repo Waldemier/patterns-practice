@@ -23,5 +23,4 @@ namespace Proxy.Implementations
 			return _config.GetConfig();
 		}
 	}
-
 }

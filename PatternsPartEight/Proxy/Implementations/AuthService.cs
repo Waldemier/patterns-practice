@@ -2,6 +2,6 @@
 {
     public class AuthService
     {
-        public bool Allowed => true;
+        public bool Allowed => false;
     }
 }
